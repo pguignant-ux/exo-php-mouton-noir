@@ -58,5 +58,6 @@ if (!empty($_POST['nom']) && !empty($_POST['prenom'])) {
 une citation qui m'ai toujours resté
 « Tu me dis, j’oublie. Tu m’enseignes, je me souviens. Tu m’impliques, j’apprends. » -->
 
+<h1>Comme je ne veux pas te surtout pas te deranger et pour evité les fausse rumeurs je ne rest pas sasns rien faire j essaye de comblé mes lacune qui son nombreuse en suivanr des tutos https://www.youtube.com/watch?v=TsOFRKrHBI8</h1>
 </body>
 </html>
